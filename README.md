@@ -32,4 +32,25 @@ The following image shows the web application's appearance and functionality:
 ![screenshot](./images/mockup.JPG)
 
 
+Here are the steps we followed to complete the weather forecast challenge 
 
+1. Register for new API key and activate it to use it in our challenge.
+
+2. When a use search city name in input field and press search then the name of the city will store in local storage. 
+
+3. The weather for the searched city will be fetch from weather API using the key and display the date, temperature, wind speed and humidity for the searched city.
+
+4. In another container the next 5-day forecast will be display with date, temperature in F, wind speed and humidity. 
+
+5. It keep changing based on the weather changes in third part API weather. 
+
+
+Here is the screenshot the completed page - 
+
+![Screenshot](./images/Capture1.JPG)
+![Screenshot](./images/Capture2.JPG)
+![Screenshot](./images/Capture3.JPG)
+![Screenshot](./images/Capture4.JPG)
+
+
+Here is the link for the deployed page - 
