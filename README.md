@@ -53,4 +53,4 @@ Here is the screenshot the completed page -
 ![Screenshot](./images/Capture4.JPG)
 
 
-Here is the link for the deployed page - 
+Here is the link for the deployed page - https://kaviambi.github.io/Weather-App/
