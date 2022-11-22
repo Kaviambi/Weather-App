@@ -53,7 +53,7 @@ function fcurrentWeather(city){
   var fapiurl = "https://api.openweathermap.org/data/2.5/forecast?q="+city+",&units=imperial&APPID="+apikey+"";
 $.ajax({
   url: fapiurl,
-  method: "GET",
+  method: "post",
 }).then(function(response){
 
   //Array of 5 day weather forecast 
