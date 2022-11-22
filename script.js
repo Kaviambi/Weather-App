@@ -50,7 +50,7 @@ function fdisplayWeather(event){
 
 function fcurrentWeather(city){
   
-  var fapiurl = "http://api.openweathermap.org/data/2.5/forecast?q="+city+",&units=imperial&APPID="+apikey+"";
+  var fapiurl = "https://api.openweathermap.org/data/2.5/forecast?q="+city+",&units=imperial&APPID="+apikey+"";
 $.ajax({
   url: fapiurl,
   method: "GET",
